@@ -1,7 +1,6 @@
 # portofolio-tailwind-css
 
-**portofolio-tailwind-css** -  Ini merupakan repositori ngobar (ngoding bareng) ke 24 dari implementasi playlist ngobar yang ada di youtube channel [Web Progrramming Unpas](https://youtu.be/kvyJPvJKTBI). Dibuat sebagai backup dan dokumentasi saya pribadi untuk pembelajaran HTML CSS JAVASCRIPT dan  TAILWINDCSS 
-
+**portofolio-tailwind-css** -  Ini merupakan repositori ngobar (ngoding bareng) ke 24 dari implementasi playlist ngobar yang ada di youtube channel [Web Progrramming Unpas](https://youtu.be/kvyJPvJKTBI). Dibuat sebagai backup dan dokumentasi saya pribadi untuk pembelajaran CSS GRID
 ![Author](https://img.shields.io/badge/made%20by-Ardywsptr-blue)
 ![GitHub followers](https://img.shields.io/github/followers/Ardywsptr?style=social)
 ![GitHub watches](https://img.shields.io/github/stars/Ardywsptr/website-responsive-css-grid?style=social)
